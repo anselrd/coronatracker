@@ -14,3 +14,4 @@ From the root directory:
 ```
 python coronatracker/coronatracker.py
 ```
+Open a browser and go to the specified port on localhost (default `localhost:8050`)
