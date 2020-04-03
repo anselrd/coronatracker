@@ -1,4 +1,6 @@
 COVID19Py
 countryinfo
-plotly
 dash
+pandas
+plotly
+requests
